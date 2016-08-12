@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroTrack</string>
+    <string name="txt_login">LOG IN</string>
+    <string name="txt_register">REGISTER</string>
+    <string name="txt_forgot">Forgot your password?</string>
+    <string name="txt_new_account">Dont have account?</string>
+    <string name="txt_send_link">SEND LINK</string>
+
+    <string name="pref_option_sms">Sms</string>
+    <string name="pref_option_location">Location</string>
+    <string name="pref_option_browser">Browser</string>
+    <string name="pref_option_contact">Contact</string>
+    <string name="pref_option_call">Call</string>
+    <string name="pref_track_setting">Tracking Options</string>
+
+</resources>
