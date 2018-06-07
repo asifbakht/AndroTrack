@@ -12,6 +12,7 @@ public class CustomResponse {
     private Object data;
     private Boolean success;
     private Integer code;
+	// THIS IS BUG FIX FOR AS14
 
     @JsonProperty(Fields.MESSAGE)
     public String getMessage() {
