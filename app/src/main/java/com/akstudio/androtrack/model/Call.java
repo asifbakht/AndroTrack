@@ -12,7 +12,7 @@ import com.j256.ormlite.table.DatabaseTable;
 public class Call {
 
     public Call() {
-// this is new call feature WS-1982
+	// THIS IS BUG FIX FOR AS13
 
     }
 
